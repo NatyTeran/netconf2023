@@ -1,0 +1,6 @@
+Naty => InputPort
+Naty => OutputPort
+ => Repository
+ => Controllers
+ => Blazor
+ => Web API
