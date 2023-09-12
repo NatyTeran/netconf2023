@@ -1,5 +1,5 @@
 ﻿namespace NetConf2023.Shared.Dtos;
-public class AttendantDto
+public class AttendeeDto
 {
     public string FullName { get; set; }
     public string Email { get; set; }

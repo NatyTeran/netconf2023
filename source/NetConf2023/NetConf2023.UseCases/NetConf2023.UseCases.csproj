@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NetConf2023.Abstractions\NetConf2023.Abstractions.csproj" />
+  </ItemGroup>
+
 </Project>
